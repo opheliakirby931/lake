@@ -1,0 +1,13 @@
+.omga-04__hero-image img {
+    max-height: 500px;
+    /* align-content: center; */
+}
+.col-lg-5.col-md-9.col-sm-10.order-lg-2.mb--15 img {
+    max-height: 500px;
+}
+button.navbar-toggler.btn-close-off-canvas.white-toggler.order-3.order-lg-2 {
+    background-image: toggle.png;
+    width: 26px;
+    height: 26px;
+    border: 0 !important;
+}
